@@ -1,0 +1,9 @@
+# game data and build output: never committed
+work/
+out/
+text/ja/
+text/tm.json
+text/.lock
+text/zh/_shared*.json
+__pycache__/
+*.pyc
