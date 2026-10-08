@@ -1,7 +1,7 @@
 刺蝟夏特（Shadow the Hedgehog）台灣繁體中文化補丁
 ==================================================
 
-補丁檔：Shadow the Hedgehog (Japan) zh-TW.xdelta
+補丁檔：Shadow.the.Hedgehog.Japan.zh-TW.xdelta
 
 ■ 需要的原版遊戲
   Shadow the Hedgehog (Japan) (En,Ja,Fr,De,Es,It)　GameCube 日版，遊戲代碼 GUPJ8P
@@ -20,7 +20,7 @@
   ・Delta Patcher（Windows 圖形介面）：Original file 選原版 ISO，
     XDelta patch 選本補丁，按「Apply patch」
   ・xdelta3 命令列：
-    xdelta3 -d -s "Shadow (Japan).iso" "Shadow the Hedgehog (Japan) zh-TW.xdelta" "Shadow the Hedgehog (zh-TW).iso"
+    xdelta3 -d -s "Shadow (Japan).iso" "Shadow.the.Hedgehog.Japan.zh-TW.xdelta" "Shadow the Hedgehog (zh-TW).iso"
 
   套用後的 ISO：
     SHA-1  {out_sha1}

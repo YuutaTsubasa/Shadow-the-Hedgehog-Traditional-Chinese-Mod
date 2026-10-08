@@ -16,7 +16,7 @@ ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 DISC = os.path.join(ROOT, "work", "disc", "files")
 ISO = os.path.join(ROOT, "work", "original.iso")
 OUT = os.path.join(ROOT, "out", "Shadow the Hedgehog (zh-TW).iso")
-PATCH = os.path.join(ROOT, "out", "Shadow the Hedgehog (Japan) zh-TW.xdelta")
+PATCH = os.path.join(ROOT, "out", "Shadow.the.Hedgehog.Japan.zh-TW.xdelta")
 README = os.path.join(ROOT, "out", "README.txt")
 # xdelta3 3.1.0 (github.com/jmacd/xdelta-gpl); override with the XDELTA3 environment variable
 XDELTA = os.environ.get("XDELTA3") or os.path.join(ROOT, "work", "bin", "xdelta3.exe")
